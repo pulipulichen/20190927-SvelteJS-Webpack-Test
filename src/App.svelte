@@ -9,9 +9,15 @@
 	const unsubscribe = count.subscribe(value => {
 		count_value = value;
 	});
+  
+  import './i18n.js'
+  import { _, locale } from 'svelte-i18n'
+  
+  // Set the current locale to zh-TW
+  locale.set('zh-TW')
 </script>
 
-<h1>The count is {count_value}</h1>
+<h1>{$_('cats', { n: count_value })}</h1>
 
 <Incrementer/>
 <Decrementer/>
