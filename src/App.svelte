@@ -17,6 +17,12 @@
   locale.set('zh-TW')
 </script>
 
+<style>
+  h1 {
+    color: blue;
+  }
+</style>
+
 <h1>{$_('cats', { n: count_value })}</h1>
 
 <Incrementer/>

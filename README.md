@@ -4,9 +4,9 @@ Demonstrate Svelte work with Webpack
 
 ----
 
-# Setup
+# Setup environment
 
-## Environment
+## Node.js version
 
 * Node.js v10.16.1: [Download](https://nodejs.org/en/download/)
 
@@ -22,6 +22,8 @@ Execute following commands in terminal:
 ````
 npm i
 ````
+
+----
 
 # Start up service
 Execute following commands in terminal:
