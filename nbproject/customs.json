@@ -1,0 +1,10 @@
+{
+  "elements": {
+    "Incrementer": {},
+    "Resetter": {},
+    "Decrementer": {}
+  },
+  "attributes": {
+    "on:click": {}
+  }
+}
