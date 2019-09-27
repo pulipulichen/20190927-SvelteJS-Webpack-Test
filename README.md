@@ -15,15 +15,18 @@ Demonstrate Svelte work with Webpack
 * [Download](https://git-scm.com/downloads)
 
 ## Clone repository
+
 Execute following commands in terminal:
 ````
 git clone https://github.com/pulipulichen/20190927-SvelteJS-Webpack-Test.git
 ````
 
+
 ## Install packages
 
 Execute following commands in terminal:
 ````
+cd 20190927-SvelteJS-Webpack-Test
 npm i
 ````
 
