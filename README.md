@@ -10,6 +10,10 @@ Demonstrate Svelte work with Webpack
 
 * Node.js v10.16.1: [Download](https://nodejs.org/en/download/)
 
+## Git 
+
+* [Download](https://git-scm.com/downloads)
+
 ## Clone repository
 Execute following commands in terminal:
 ````
